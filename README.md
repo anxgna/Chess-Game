@@ -1,2 +1,2 @@
 # Chess-Game
-A simple frontend project of Chess Game
+A simple Chess Game frontend project
